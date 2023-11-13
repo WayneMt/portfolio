@@ -1,25 +1,25 @@
 # Software Developer
-Skills: C#, JavaScript, Node.js, MySQL
+Technical Skills: C#, JavaScript, Node.js, MySQL
 
 ### Education
 - Diploma in Creative Media Production & Technology: Merit | Eastleigh College (June, 2023)
 
 ### Work Experience
-Drop The Mask  (2023)
+Drop The Mask  (April, 2023)
 - here
 
 ### Projects
 Bouncing Images Website (2022)
-- here
+- This project was for the first assingment that I was given in the early year of my Computer Science course at Eastleigh College. My task was to make a website with images bounce within the window.
 
-Esports Web Application (2023)
-- here
+eSports Web Application (2023)
+- For this project, I made a eSports web application. I used Node.js and the MySQL database to store the user's data.
 
 2D Asteroids Game (2023)
-- here
+- Using Unity, I was able to make a successful, fully functioning 2D asteroids game with a touch of sfx and animatations.
 
 Password Manager (2023)
-- here
+- Building a Password Manager was what I decided I was going to make for my final project using WPF.
 
 Climate Science Quiz Game (2023)
-- here
+- This project was the first assignment that I was given at the start of the second year of my CS course at Eastleigh College. My task was to develop an interactive exhibit to teach 6-11 years olds about Climate Science. 

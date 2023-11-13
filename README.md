@@ -11,11 +11,15 @@ Drop The Mask  (2023)
 ### Projects
 Bouncing Images Website (2022)
 - here
+
 Esports Web Application (2023)
 - here
+
 2D Asteroids Game (2023)
 - here
+
 Password Manager (2023)
 - here
+
 Climate Science Quiz Game (2023)
 - here

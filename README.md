@@ -1,5 +1,8 @@
-# Software Developer
-Technical Skills: C#, JavaScript, Node.js, MySQL
+# Full-Stack Developer
+Technical Skills: C#, JavaScript, HTML, CSS, Bootstrap, Node.js, MySQL
+
+### About Me
+Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making softwares, however I have also worked on websites, web applications and even games.
 
 ### Education
 - Diploma in Creative Media Production & Technology: Merit | Eastleigh College (June, 2023)

@@ -27,6 +27,7 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 * Built a website with images bouncing within the browser window
 * Experimented with css
+  
   ![Bouncing Image](/images/bouncing-image.png)
   
 

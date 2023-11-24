@@ -2,27 +2,52 @@
 Technical Skills: C#, JavaScript, HTML, CSS, Bootstrap, Node.js, MySQL
 
 ### About Me
-Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making softwares, however I have also worked on websites, web applications and even games.
+
+Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making softwares, however I have also worked on websites, web applications and even games
+
 
 ### Education
+
 - Diploma in Creative Media Production & Technology: ME | Eastleigh College (June, 2023)
 
+
 ### Work Experience
+
 Drop The Mask  (April, 2023)
-- here
+- Deveopment on my communication skills
+- During my time there, I got the chance to create wireframes, mockups, while learning WPF (Windows Presentation Foundation) for my final project
+  
 
 ### Projects
+
 Bouncing Images Website (2022)
-- This project was for the first assingment that I was given in the early year of my Computer Science course at Eastleigh College. My task was to make a website with images bounce within the window.
+- Built a website with images bouncing within the browser window
+- Experimented with css
+  
 
 eSports Web Application (2023)
-- For this project, I made a eSports web application. I used Node.js and the MySQL database to store the user's data.
+
+- Built a eSports web application
+- Experimented with Bootstrap
+  
 
 2D Asteroids Game (2023)
-- Using Unity, I was able to make a successful, fully functioning 2D asteroids game with a touch of sfx and animatations.
+
+- Built a 2d asteroids game using Unity
+- Experimented with sfx (sound effects) and animatations
+  
 
 Password Manager (2023)
-- Building a Password Manager was what I decided I was going to make for my final project using WPF.
+
+- Built a password generator that generates randomised long characters
+- Learnt how to use WPF
+- Used MVVM
+  
 
 Climate Science Quiz Game (2023)
-- This project was the first assignment that I was given at the start of the second year of my CS course at Eastleigh College. My task was to develop an interactive exhibit to teach 6-11 years olds about Climate Science. 
+
+- Built a quiz game related to climate science
+- Developed on my WPF skills
+- Experimented with fonts
+- Used MVVM
+  

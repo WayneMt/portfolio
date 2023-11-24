@@ -27,18 +27,24 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 * Built a website with images bouncing within the browser window
 * Experimented with css
+  ![Bouncing Image](/images/bouncing-image.png)
   
 
 ### [eSports Web Application (2023)](https://github.com/WayneMt/eSports)
 
 * Built a eSports web application
 * Experimented with Bootstrap
+  ![eSports](/images/eSports-game-page.png)
+  ![eSports](/images/eSports-player-page.png)
   
 
 ### [2D Asteroids Game (2023)](https://github.com/WayneMt/2D-Asteroids)
 
 * Built a 2d asteroids game using Unity
 * Experimented with sfx (sound effects) and animatations
+  ![2D Asteroids](/images/unity-start-menu-image.png)
+  ![2D Asteroids](/images/unity-game-image.png)
+  ![2D Asteroids](/images/unity-pause-menu-image.png)
   
 
 ### [Password Manager (2023)](https://github.com/WayneMt/Password-Manager)
@@ -46,6 +52,8 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 * Built a password generator that generates randomised long characters
 * Learnt how to use WPF
 * Used MVVM
+  ![Password Manager](/images/password-manager-dashboard.png)
+  ![Password Manager](/images/password-generator-image.png)
   
 
 ### [Climate Science Quiz Game (2023)](https://github.com/WayneMt/Climate-Science-Quiz-Game)

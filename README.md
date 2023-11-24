@@ -83,3 +83,8 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 * The quit game button and message box were not needed since it was supposed to be an interactive exhibit
 * Couldn't get the user's scores to appear in the message box
   
+  ![Climate Science Quiz Game](/images/climate-science-quiz-menu-image.png)
+
+  ![Climate Science Quiz Game](/images/climate-science-quiz-question-1.png)
+
+  ![Climate Science Quiz Game](/images/climate-science-quiz-question-1.png)

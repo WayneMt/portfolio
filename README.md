@@ -34,7 +34,9 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 * Built a eSports web application
 * Experimented with Bootstrap
+  
   ![eSports](/images/eSports-game-page.png)
+  
   ![eSports](/images/eSports-player-page.png)
   
 
@@ -42,8 +44,11 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 * Built a 2d asteroids game using Unity
 * Experimented with sfx (sound effects) and animatations
+  
   ![2D Asteroids](/images/unity-start-menu-image.png)
+  
   ![2D Asteroids](/images/unity-game-image.png)
+  
   ![2D Asteroids](/images/unity-pause-menu-image.png)
   
 
@@ -52,7 +57,9 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 * Built a password generator that generates randomised long characters
 * Learnt how to use WPF
 * Used MVVM
+  
   ![Password Manager](/images/password-manager-dashboard.png)
+  
   ![Password Manager](/images/password-generator-image.png)
   
 

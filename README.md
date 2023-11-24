@@ -10,48 +10,48 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 ### Eastleigh College  (June, 2023)
 
-- Diploma in Creative Media Production & Technology: ME 
+* Diploma in Creative Media Production & Technology: ME 
 
 
 ## Work Experience
 
 ### Drop The Mask  (April, 2023)
 
-- Deveopment on my communication skills
-- During my time there, I got the chance to create wireframes, mockups, while learning WPF (Windows Presentation Foundation) for my final project
+* Deveopment on my communication skills
+* During my time there, I got the chance to create wireframes, mockups, while learning WPF (Windows Presentation Foundation) for my final project
   
 
 ## Projects
 
 ### [Bouncing Images Website (2022)](https://github.com/WayneMt/Bouncing-Images)
 
-- Built a website with images bouncing within the browser window
-- Experimented with css
+* Built a website with images bouncing within the browser window
+* Experimented with css
   
 
 ### [eSports Web Application (2023)](https://github.com/WayneMt/eSports)
 
-- Built a eSports web application
-- Experimented with Bootstrap
+* Built a eSports web application
+* Experimented with Bootstrap
   
 
 ### [2D Asteroids Game (2023)](https://github.com/WayneMt/2D-Asteroids)
 
-- Built a 2d asteroids game using Unity
-- Experimented with sfx (sound effects) and animatations
+* Built a 2d asteroids game using Unity
+* Experimented with sfx (sound effects) and animatations
   
 
 ### [Password Manager (2023)](https://github.com/WayneMt/Password-Manager)
 
-- Built a password generator that generates randomised long characters
-- Learnt how to use WPF
-- Used MVVM
+* Built a password generator that generates randomised long characters
+* Learnt how to use WPF
+* Used MVVM
   
 
 ### [Climate Science Quiz Game (2023)](https://github.com/WayneMt/Climate-Science-Quiz-Game)
 
-- Built a quiz game related to climate science
-- Developed on my WPF skills
-- Experimented with fonts
-- Used MVVM
+* Built a quiz game related to climate science
+* Developed on my WPF skills
+* Experimented with fonts
+* Used MVVM
   

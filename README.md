@@ -53,6 +53,7 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 * Built a 2d asteroids game using Unity
 * Experimented with sfx (sound effects) and animatations
 * Added different scenes
+* Added pickups for both health and score points
   
   ![2D Asteroids](/images/unity-start-menu-image.png)
   

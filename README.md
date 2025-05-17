@@ -42,7 +42,7 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 * Implemented a navbar to make navigation easier
 * Added fully functional add, edit & delete buttons
 * Added album cards within the games page
-* Couldn't find a way to make the add game/player section vertically alligned with the album cards/textbox
+* Couldn't find a way to make the add game/player section vertically aligned with the album cards/textbox
   
   ![eSports](/images/eSports-game-page.png)
   
@@ -52,7 +52,7 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 ### [2D Asteroids Game (2023)](https://github.com/WayneMt/2D-Asteroids)
 
 * Built a 2d asteroids game using Unity
-* Experimented with sfx (sound effects) and animatations
+* Experimented with sfx (sound effects) and animations
 * Added different scenes
 * Added pickups for both health and score points
   

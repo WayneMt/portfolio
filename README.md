@@ -8,9 +8,10 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 ## Education
 
-### Eastleigh College  (June, 2023)
+### Eastleigh College  (June, 2023 & June, 2024)
 
-* Diploma in Creative Media Production & Technology: ME 
+* Level 3 Diploma in Creative Media Production & Technology: Merit (2023)
+* Level 3 Extended Diploma in Creative Media Production & Technology: Pass (2024)
 
 
 ## Work Experience

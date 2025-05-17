@@ -18,7 +18,7 @@ Greetings! My name is Wayne and I am a Full-Stack Developer. I enjoy making soft
 
 ### Drop The Mask  (April, 2023)
 
-* Deveopment on my communication skills
+* Development on my communication skills
 * Got the chance to create wireframes, mockups and start my final project
 * Taught myself WPF (Windows Presentation Foundation)
   
